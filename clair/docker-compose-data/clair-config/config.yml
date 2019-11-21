@@ -2,7 +2,7 @@ clair:
   database:
     type: pgsql
     options:
-      source: postgresql://clair:ChangeMe@postgres:5432/clair?sslmode=disable
+      source: postgresql://clair:pheThineicae5aeh0uesh5meechecohPeev0ag8aiTha5id4uPu7lah@postgres:5432/clair?sslmode=disable
       cachesize: 16384
   api:
     port: 6060
